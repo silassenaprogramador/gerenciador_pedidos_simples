@@ -1,4 +1,4 @@
-Projeto em branco configurado com laravel 8
+Laravel 8
 
 Funcionalidades implementadas:
 
